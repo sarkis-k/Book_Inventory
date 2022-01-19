@@ -48,7 +48,7 @@ def update(id, title, author,year,isbn):
 
 
 connect()
-insert("small","great",1999,323442)
-print(view())
-delete(3)
-print(search(author="great"))
+# insert("small","great",1999,323442)
+# print(view())
+# delete(3)
+# print(search(author="great"))
