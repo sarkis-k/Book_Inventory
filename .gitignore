@@ -1,0 +1,4 @@
+build/
+dist/
+front.spec
+__pycache__/
